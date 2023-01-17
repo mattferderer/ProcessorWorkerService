@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33209.295
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessorWorkerService", "ProcessorWorkerService.csproj", "{FCDE7526-E8F0-419D-AA30-32AC5389C469}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessorTests", "..\ProcessorTests\ProcessorTests.csproj", "{D40C3B81-58F8-4FBC-8933-78CDBAAAF3C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FCDE7526-E8F0-419D-AA30-32AC5389C469}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCDE7526-E8F0-419D-AA30-32AC5389C469}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCDE7526-E8F0-419D-AA30-32AC5389C469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D40C3B81-58F8-4FBC-8933-78CDBAAAF3C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40C3B81-58F8-4FBC-8933-78CDBAAAF3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40C3B81-58F8-4FBC-8933-78CDBAAAF3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40C3B81-58F8-4FBC-8933-78CDBAAAF3C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
